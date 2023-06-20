@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>hello!</title>
+        <style>
+            .baz
+            {
+                color: springgreen;
+                              
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="baz">heading 1</h1>
+        <h1 class="baz">heading 2</h1>
+        <h1>heading 3</h1>
+    </body>
+</html>
